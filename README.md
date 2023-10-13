@@ -30,11 +30,11 @@
         }
         nav a {
             color: #fff;
-            text-decoration: none;
+            text-decoration: blink;
             transition: color 0.3s;
         }
         nav a:hover {
-            color: #FFA500;
+            color: #598BAF;
         }
         .tab-content {
             padding: 20px;
@@ -53,7 +53,7 @@
         }
         footer a {
             color: #fff;
-            text-decoration: none;
+            text-decoration: blink;
             margin: 0 10px;
         }
     </style>
@@ -81,13 +81,13 @@
 
 <u>Achievements</u><br>
 
-The Cisco Community has carved its name indelibly into the annals of technological history, with a string of notable achievements that underscore its significance. First and foremost, it has fostered an environment of knowledge sharing and innovation. The community's members, hailing from diverse backgrounds, have contributed to its expansive repository of information, making it a treasure trove for tech enthusiasts. Through its collaborative spirit, it has become a hub where ideas flourish and grow into tangible innovations. Many of its members have been pioneers in the development of cutting-edge networking technologies, leaving an indelible mark on the industry.<br>
+The Cisco Community has carved its name indelibly into the annals of technological history, with a string of notable achievements that underscore its significance. First and foremost, it has fostered an environment of knowledge sharing and innovation. The community's members, hailing from diverse backgrounds, have contributed to its expansive repository of information, making it a treasure trove for tech enthusiasts. Through its collaborative spirit, it has become a hub where ideas flourish and grow into tangible innovations. Many of its members have been pioneers in the development of cutting-edge networking technologies, leaving an indelible mark on the industry.
 
-Another remarkable achievement is the establishment of a global network of experts. The Cisco Community has cultivated relationships with professionals and organizations worldwide, promoting the exchange of ideas, best practices, and experiences. This network extends the community's reach, facilitates international collaborations, and opens doors to numerous opportunities for its members.<br>
+Another remarkable achievement is the establishment of a global network of experts. The Cisco Community has cultivated relationships with professionals and organizations worldwide, promoting the exchange of ideas, best practices, and experiences. This network extends the community's reach, facilitates international collaborations, and opens doors to numerous opportunities for its members.
 
 The community's educational programs are yet another testament to its achievements. Through webinars, workshops, and courses, it has empowered individuals to gain valuable skills and certifications, enriching their careers in the process. Moreover, it has played a vital role in connecting budding talents with experienced mentors, nurturing the next generation of networking professionals.<br>
 
-Objectives<br>
+<u>Objectives</u><br>
 
 At its core, the Cisco Community is driven by a set of unwavering objectives that guide its actions and decisions. These objectives serve as a roadmap for its members and ensure that it stays true to its founding principles.<br>
 
@@ -126,85 +126,85 @@ The Cisco Community is not just a network; it's a vibrant ecosystem where shared
             <li>Professional Growth and Development</li>
             <li>Global Networking Opportunities</li>
         </ul>
-        <p>Within the Cisco Community, exploration is more than just a word; it's a way of life. Members are constantly venturing into new frontiers of technology, networking, and innovation. This exploration is at the heart of the community's mission, driving members to discover, learn, and collaborate.
+        <p>Within the Cisco Community, exploration is more than just a word; it's a way of life. Members are constantly venturing into new frontiers of technology, networking, and innovation. This exploration is at the heart of the community's mission, driving members to discover, learn, and collaborate.<br>
 
-**1. **Networking Landscapes**:
+1. Networking Landscapes:<br>
 
-Exploration within the Cisco Community is synonymous with venturing into uncharted networking landscapes. Whether it's the emerging trends in 5G, the mysteries of the Internet of Things (IoT), or the complexities of cloud computing, community members embark on journeys of discovery to understand and harness the potential of the latest networking technologies. Through discussions, research, and shared experiences, they delve deep into these areas.
+Exploration within the Cisco Community is synonymous with venturing into uncharted networking landscapes. Whether it's the emerging trends in 5G, the mysteries of the Internet of Things (IoT), or the complexities of cloud computing, community members embark on journeys of discovery to understand and harness the potential of the latest networking technologies. Through discussions, research, and shared experiences, they delve deep into these areas.<br>
 
-**2. **Virtualization and Cloud**:
+2. Virtualization and Cloud:<br>
 
-Virtualization and cloud computing have redefined the way networks are structured and managed. Cisco Community members are not content with the status quo. They explore the world of virtualization technologies like Virtual Private Clouds (VPCs), Software-Defined Networking (SDN), and Network Function Virtualization (NFV). These explorations are vital for staying at the forefront of network architecture and efficiency.
+Virtualization and cloud computing have redefined the way networks are structured and managed. Cisco Community members are not content with the status quo. They explore the world of virtualization technologies like Virtual Private Clouds (VPCs), Software-Defined Networking (SDN), and Network Function Virtualization (NFV). These explorations are vital for staying at the forefront of network architecture and efficiency.<br>
 
-**3. **Security Fortresses**:
+3. Security Fortresses:<br>
 
-Exploration of cybersecurity is a never-ending saga. The community actively dives into the realms of digital defense and offense. Members dissect the latest threats, explore advanced security protocols, and push the boundaries of network security to fortify against ever-evolving risks.
+Exploration of cybersecurity is a never-ending saga. The community actively dives into the realms of digital defense and offense. Members dissect the latest threats, explore advanced security protocols, and push the boundaries of network security to fortify against ever-evolving risks.<br>
 
-**4. **Internet of Things (IoT)**:
+4. Internet of Things (IoT):<br>
 
-The IoT landscape is evolving rapidly, with devices and systems connecting like never before. Cisco Community members are among the pioneers exploring the possibilities and challenges that IoT presents. They investigate the use of IoT in industries, devise secure architectures, and even tinker with DIY IoT projects to learn and share their findings.
+The IoT landscape is evolving rapidly, with devices and systems connecting like never before. Cisco Community members are among the pioneers exploring the possibilities and challenges that IoT presents. They investigate the use of IoT in industries, devise secure architectures, and even tinker with DIY IoT projects to learn and share their findings.<br>
 
-**5. **The Future of Networking**:
+5. The Future of Networking:<br>
 
-What's on the horizon? Community explorations extend to the speculative frontiers of technology. Members often engage in discussions and debates on what the future might hold for networking. Quantum computing, 6G, and advanced AI are just a few topics under scrutiny. These explorations stimulate forward-thinking discussions that prepare members for what's to come.
+What's on the horizon? Community explorations extend to the speculative frontiers of technology. Members often engage in discussions and debates on what the future might hold for networking. Quantum computing, 6G, and advanced AI are just a few topics under scrutiny. These explorations stimulate forward-thinking discussions that prepare members for what's to come.<br>
 
-**6. **Community Projects**:
+6. Community Projects:<br>
 
-Exploration isn't always about abstract concepts; it's also hands-on. Members collaborate on community projects, building real-world applications and solutions. These projects include everything from open-source contributions to developing innovative network management tools. It's an opportunity for members to apply their knowledge in practical ways.
+Exploration isn't always about abstract concepts; it's also hands-on. Members collaborate on community projects, building real-world applications and solutions. These projects include everything from open-source contributions to developing innovative network management tools. It's an opportunity for members to apply their knowledge in practical ways.<br>
 
-**7. **Certification Pathways**:
+7. Certification Pathways:<br>
 
-Exploration goes hand-in-hand with education. The Cisco Community recognizes the importance of certifications in advancing careers. Members explore the world of certifications, sharing insights on study resources, strategies for exam success, and personal experiences on the certification journey.
+Exploration goes hand-in-hand with education. The Cisco Community recognizes the importance of certifications in advancing careers. Members explore the world of certifications, sharing insights on study resources, strategies for exam success, and personal experiences on the certification journey.<br>
 
-In every corner of the Cisco Community, exploration is the key to innovation and progress. Members are not only consumers of knowledge but also creators of new ideas and solutions. Their shared explorations lead to a continuous cycle of growth, benefiting both the individual and the collective community. From new technologies to innovative solutions, they actively journey towards a future where networking and technology hold endless possibilities.</p>
+In every corner of the Cisco Community, exploration is the key to innovation and progress. Members are not only consumers of knowledge but also creators of new ideas and solutions. Their shared explorations lead to a continuous cycle of growth, benefiting both the individual and the collective community. From new technologies to innovative solutions, they actively journey towards a future where networking and technology hold endless possibilities.</p><br>
     </div>
 
     <div class="tab-content" id="our-programs">
         <h2>Our Programs</h2>
-        <p>Cisco, a global leader in networking and information technology, offers a wide range of programs and certifications for IT professionals, network engineers, and individuals looking to advance their careers in the technology industry. Here are some of the key programs and certifications offered by Cisco:
+        <p>Cisco, a global leader in networking and information technology, offers a wide range of programs and certifications for IT professionals, network engineers, and individuals looking to advance their careers in the technology industry. Here are some of the key programs and certifications offered by Cisco:<br>
 
-1. **Cisco Certified Network Associate (CCNA)**:
-   - CCNA is an entry-level certification that covers the fundamentals of networking, including routing and switching.
-   - Specialized CCNA certifications are also available, such as CCNA Security and CCNA Wireless.
+1. Cisco Certified Network Associate (CCNA):<br>
+   - CCNA is an entry-level certification that covers the fundamentals of networking, including routing and switching.<br>
+   - Specialized CCNA certifications are also available, such as CCNA Security and CCNA Wireless.<br>
 
-2. **Cisco Certified Network Professional (CCNP)**:
-   - CCNP is an intermediate-level certification that focuses on advanced routing and switching, wireless, and security.
-   - Specialized CCNP certifications include CCNP Security and CCNP Enterprise.
+2. Cisco Certified Network Professional (CCNP):<br>
+   - CCNP is an intermediate-level certification that focuses on advanced routing and switching, wireless, and security.<br>
+   - Specialized CCNP certifications include CCNP Security and CCNP Enterprise.<br>
 
-3. **Cisco Certified Internetwork Expert (CCIE)**:
-   - CCIE is an expert-level certification for experienced network professionals.
-   - Specializations include Routing and Switching, Security, Wireless, and Data Center.
+3. Cisco Certified Internetwork Expert (CCIE):<br>
+   - CCIE is an expert-level certification for experienced network professionals.<br>
+   - Specializations include Routing and Switching, Security, Wireless, and Data Center.<br>
 
-4. **Cisco Certified DevNet Professional**:
-   - This certification is for professionals looking to develop software and automation skills for Cisco platforms.
+4. Cisco Certified DevNet Professional:<br>
+   - This certification is for professionals looking to develop software and automation skills for Cisco platforms.<br>
 
-5. **Cisco Certified CyberOps Associate**:
-   - Designed for individuals pursuing a career in cybersecurity and network security operations.
+5. Cisco Certified CyberOps Associate:<br>
+   - Designed for individuals pursuing a career in cybersecurity and network security operations.<br>
 
-6. **Cisco Certified Specialist Certifications**:
-   - These certifications cover various areas such as collaboration, data center, and service provider.
-   - Examples include Cisco Certified Specialist - Collaboration Core, Cisco Certified Specialist - Data Center, and Cisco Certified Specialist - Service Provider.
+6. Cisco Certified Specialist Certifications:<br>
+   - These certifications cover various areas such as collaboration, data center, and service provider.<br>
+   - Examples include Cisco Certified Specialist - Collaboration Core, Cisco Certified Specialist - Data Center, and Cisco Certified Specialist - Service Provider.<br>
 
-7. **Cisco Certified Architect (CCAr)**:
-   - CCAr is the highest level of certification and is for those who can effectively design and implement complex solutions for Cisco networks.
+7. Cisco Certified Architect (CCAr):<br>
+   - CCAr is the highest level of certification and is for those who can effectively design and implement complex solutions for Cisco networks.<br>
 
-8. **Cisco Certified Technician (CCT)**:
-   - This certification is for technicians who provide support for Cisco products and networks.
+8. Cisco Certified Technician (CCT):<br>
+   - This certification is for technicians who provide support for Cisco products and networks.<br>
 
-9. **Cisco Certified CyberOps Associate**:
-   - This certification focuses on cybersecurity and prepares professionals for roles in security operations centers (SOCs).
+9. Cisco Certified CyberOps Associate:<br>
+   - This certification focuses on cybersecurity and prepares professionals for roles in security operations centers (SOCs).<br>
 
-10. **Cisco Networking Academy**:
-    - Cisco's Networking Academy offers various courses and programs to help individuals acquire networking and IT skills. These courses include CCNA, CCNP, and more.
+10. Cisco Networking Academy:<br>
+    - Cisco's Networking Academy offers various courses and programs to help individuals acquire networking and IT skills. These courses include CCNA, CCNP, and more.<br>
 
-11. **Cisco Certified Specialist - Meraki Solutions**:
-    - Focused on Cisco Meraki cloud-managed IT solutions for network management, security, and mobility.
+11. Cisco Certified Specialist - Meraki Solutions:<br>
+    - Focused on Cisco Meraki cloud-managed IT solutions for network management, security, and mobility.<br>
 
-12. **Cisco Sales and Design Certifications**:
-    - These certifications are aimed at professionals involved in designing, selling, and implementing Cisco solutions.
+12. Cisco Sales and Design Certifications:<br>
+    - These certifications are aimed at professionals involved in designing, selling, and implementing Cisco solutions.<br>
 
-13. **Cisco Collaboration Certifications**:
-    - These certifications focus on Cisco's collaboration and communication solutions, including video conferencing and IP telephony.
+13. Cisco Collaboration Certifications:<br>
+    - These certifications focus on Cisco's collaboration and communication solutions, including video conferencing and IP telephony.<br>
 
 Cisco regularly updates its certification programs to stay current with industry trends and technologies. These certifications provide IT professionals with valuable skills and credentials to excel in their careers, whether they're focused on networking, security, cloud computing, or other areas of technology.</p>
     </div>
