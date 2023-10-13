@@ -8,7 +8,7 @@
         /* Inline CSS for demonstration purposes; consider using an external CSS file */
         body {
             font-family: Raleway, Raleway;
-            background-color: #89CFEF;
+            background-color: #000000;
             margin: 0;
             padding: 0;
         }
@@ -34,7 +34,7 @@
             transition: color 0.3s;
         }
         nav a:hover {
-            color: #598BAF;
+            color: #000080;
         }
         .tab-content {
             padding: 20px;
@@ -60,7 +60,7 @@
 </head>
 <body>
     <header>
-        <h1>JOIN CISCO COMMUNITY TODAY AND EXPLORE NEW OPPORTUNITIES AND GROW WITH LIKE-MINDED PEOPLE</h1>
+        <h1>JOIN OUR CISCO COMMUNITY TODAY AND EXPLORE NEW OPPORTUNITIES AND GROW WITH LIKE-MINDED PEOPLE</h1>
         <p>Welcome to the Community! The Community is a hub for connecting with your peers and Cisco specialists to ask for help, share your expertise, build your network, and grow professionally.</p>
         <nav>
             <ul>
