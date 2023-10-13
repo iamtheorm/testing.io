@@ -6,29 +6,7 @@
     <title>Your Cisco Community</title>
     <link rel="stylesheet" href="styles.css">
     <style>
-        /* Your existing CSS goes here */
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Your Cisco Community</h1>
-        <p>Welcome to the Community! The Community is a hub for connecting with your peers and Cisco specialists to ask for help, share your expertise, build your network, and grow professionally.</p>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#cisco-community">CISCO Community</a></li>
-                <li><a href="#our-programs">Our Programs</a></li>
-                <li><a href="#global-networks">Global Networks</a></li>
-                <li><a href="#event-calendar">Event Calendar</a></li>
-                <li><a href="#member-stories">Member Stories</a></li>
-                <li><a href="#contact-us">Contact Us</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <!-- Google Community Style Code -->
-    <style>
-        /* Google Community Style CSS */
+        /* Inline CSS for demonstration purposes; consider using an external CSS file */
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
@@ -80,10 +58,25 @@
             margin: 0 10px;
         }
     </style>
-    <!-- End of Google Community Style Code -->
+</head>
+<body>
+    <header>
+        <h1>Your Cisco Community</h1>
+        <p>Welcome to the Community! The Community is a hub for connecting with your peers and Cisco specialists to ask for help, share your expertise, build your network, and grow professionally.</p>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#cisco-community">CISCO Community</a></li>
+                <li><a href="#our-programs">Our Programs</a></li>
+                <li><a href="#global-networks">Global Networks</a></li>
+                <li><a href="#event-calendar">Event Calendar</a></li>
+                <li><a href="#member-stories">Member Stories</a></li>
+                <li><a href="#contact-us">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
 
-    <!-- Your content with tabbed sections -->
-    <div class="tab-content active" id="home">
+    <div class="tab-content" id="home">
         <h2>Welcome to Our Cisco Community</h2>
         <p>This is where you can find all the information related to Cisco in our college.</p>
     </div>
@@ -98,12 +91,31 @@
         </ul>
     </div>
 
-    <!-- Other tabbed sections... -->
+    <div class="tab-content" id="our-programs">
+        <h2>Our Programs</h2>
+        <p>We offer a variety of programs to help you enhance your skills and knowledge. Stay tuned for updates on our programs.</p>
+    </div>
 
-    <footer>
-        <a href="#">Community Feedback</a>
-        <a href="#">Terms and Conditions</a>
-        <!-- You can add more links here -->
-    </footer>
-</body>
-</html>
+    <div class="tab-content" id="global-networks">
+        <h2>Global Networks</h2>
+        <p>Connect with highly successful individuals from the Cisco community around the world. Learn from their experiences and insights.</p>
+    </div>
+
+    <div class="tab-content" id="event-calendar">
+        <h2>Event Calendar</h2>
+        <p>We're in the process of updating our event calendar. Thank you for your patience. Stay tuned for upcoming events and activities.</p>
+    </div>
+
+    <div class="tab-content" id="member-stories">
+        <h2>Member Stories</h2>
+        <p>Explore inspiring stories of Cisco community members from different parts of the world:</p>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Location</th>
+                <th>Story</th>
+            </tr>
+            <tr>
+                <td>John Doe</td>
+                <td>San Francisco, USA</td>
+                <
