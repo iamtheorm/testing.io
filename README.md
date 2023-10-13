@@ -7,7 +7,7 @@
     <style>
         /* Inline CSS for demonstration purposes; consider using an external CSS file */
         body {
-            font-family: Arial, sans-serif;
+            font-family: Raleway, sans-serif;
             background-color: #f4f4f4;
             margin: 0;
             padding: 0;
