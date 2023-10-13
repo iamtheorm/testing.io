@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -118,4 +117,40 @@
             <tr>
                 <td>John Doe</td>
                 <td>San Francisco, USA</td>
-                <
+                <td>John Doe's inspiring journey in the Cisco community.</td>
+            </tr>
+            <tr>
+                <td>Jane Smith</td>
+                <td>Sydney, Australia</td>
+                <td>Jane Smith's experience in the Cisco community.</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="tab-content" id="contact-us">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need assistance, feel free to contact us:</p>
+        <p>Email: <a href="mailto:info@ciscocommunity.com">info@ciscocommunity.com</a></p>
+    </div>
+
+    <footer>
+        <a href="#home">Home</a>
+        <a href="#cisco-community">CISCO Community</a>
+        <a href="#our-programs">Our Programs</a>
+        <a href="#global-networks">Global Networks</a>
+        <a href="#event-calendar">Event Calendar</a>
+        <a href="#member-stories">Member Stories</a>
+        <a href="#contact-us">Contact Us</a>
+    </footer>
+
+    <script>
+        function showTab(tabId) {
+            var tabs = document.getElementsByClassName("tab-content");
+            for (var i = 0; i < tabs.length; i++) {
+                tabs[i].style.display = "none";
+            }
+            document.getElementById(tabId).style.display = "block";
+        }
+    </script>
+</body>
+</html>
